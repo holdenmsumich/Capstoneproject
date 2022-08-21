@@ -1,10 +1,10 @@
 query,relevant_naics
 Home improvement store,444110
 Diesel fuel supplier,424710
-Church,813100
+Church,813110
 Farm,115116
 Seed supplier,424910
-Accountant,541200
+Accountant,541219
 Trucking company,484110
 Exporter,522293
 Grain elevator,493130
@@ -19,7 +19,7 @@ Store,452319
 Grocery store,445110
 Rice mill,311212
 Food products supplier,424490
-Accounting firm,541200
+Accounting firm,541219
 Produce market,445230
 Pet supply store,453910
 Wholesaler,425120
@@ -39,7 +39,7 @@ Event venue,561920
 Frozen dessert supplier,311520
 Wine wholesaler and importer,424820
 Winery,312130
-Aerospace company,336400
+Aerospace company,336411
 Cold storage facility,493120
 Employment agency,561311
 Plant nursery,444220
@@ -53,7 +53,7 @@ Herb shop,446191
 Aluminum supplier,331313
 Ambulance service,621910
 Wholesale plant nursery,424930
-Amusement machine supplier,454200
+Amusement machine supplier,713120
 Animal hospital,541940
 Farmers market,445230
 Vaporizer store,453991
@@ -64,15 +64,15 @@ Library,519120
 Apartment building,531110
 Apartment rental agency,531110
 Dairy farm,112120
-Architect,541300
+Architect,541310
 Organic farm,111998
-Architectural designer,541300
-Architecture firm,541300
+Architectural designer,541310
+Architecture firm,541310
 Livestock producer,112111
 Dairy supplier,424430
 Biotechnology company,541714
-Artist,711500
-Egg supplier,1123
+Artist,711510
+Egg supplier,112310
 Poultry farm,311615
 Chicken hatchery,112340
 Arts organization,711190
@@ -111,7 +111,7 @@ Agriculture cooperative,926140
 Printing equipment supplier,333244
 Auto insurance agency,524210
 Alternative fuel station,447190
-Auto parts manufacturer,336300
+Auto parts manufacturer,336390
 Foundation,813211
 Fertilizer supplier,325311
 Farming company,115116
@@ -152,7 +152,7 @@ Asphalt mixing plant,324121
 Ready mix concrete supplier,327320
 Sand plant,212322
 BMW dealer,441120
-Bookbinder,323121
+Bookbinder,323117
 Garden center,444220
 Abrasives supplier,327910
 Granite supplier,327991
@@ -165,9 +165,9 @@ Mining equipment,333131
 Bus ticket agency,561599
 Business center,561439
 Skyscraper,236220
-Software company,54151
+Software company,511210
 Business development service,541611
-Business management consultant,541600
+Business management consultant,541611
 Cabinet maker,337110
 Call center,561421
 Cancer treatment center,622310
@@ -200,16 +200,16 @@ Telecommunications service provider,517311
 Energy equipment and solutions,444210
 Chiropractor,621310
 Steel distributor,423510
-City government office,999300
+City government office,921190
 Crane service,333923
 Garage door supplier,238350
 Industrial door supplier,332321
 City or town hall,921110
-Clothing wholesaler,424300
+Clothing wholesaler,424310
 Coin operated laundry equipment supplier,812310
 Metal supplier,423510
 Glass shop,238150
-College,611300
+College,611310
 Siding contractor,238170
 Commercial printer,323111
 Storage facility,493110
@@ -229,7 +229,7 @@ Flooring contractor,238330
 Tile contractor,238340
 Tile manufacturer,238340
 Glass & mirror shop,238150
-Construction material wholesaler,423310t
+Construction material wholesaler,423390
 Gutter cleaning service,561790
 Sheet metal contractor,332322
 Consultant,541618
@@ -245,7 +245,7 @@ Animal protection organization,813312
 Brewing supply store,424810
 Cosmetics store,446120
 County government office,921190
-Sugar factory,31131
+Sugar factory,311314
 Confectionery wholesaler,424450
 Financial institution,921130
 Candy store,445292
@@ -285,7 +285,7 @@ Brewery,312120
 Winemaking company,312130
 Distillery,312140
 Disability services & support organisation,624120
-District government office,999300
+District government office,921190
 Air filter supplier,333413
 Tire shop,441320
 Fastener supplier,339993
@@ -307,11 +307,11 @@ Packaging company,561910
 Duty free store,453998
 E-commerce service,454110
 Cable company,515210
-Education,611000
+Education,611710
 Outlet store,452319
 Lingerie store,448190
 Clothes and fabric manufacturer,313310
-Education center,611000
+Education center,611710
 Uniform store,448190
 Mens clothing store,448110
 Clothing store,448190
@@ -321,7 +321,7 @@ Costume store,532281
 Game store,451120
 Hat shop,448150
 Leather goods manufacturer,448320
-Educational consultant,611000
+Educational consultant,611710
 Leather exporter,316998
 Shoe store,448210
 Boutique,448120
@@ -354,7 +354,7 @@ Marketing,541613
 Marketing agency,541810
 Engineering consultant,541330
 Entertainer,713990
-Envelope supplier,322232
+Envelope supplier,322230
 Oil refinery,324110
 Recording studio,512240
 Environment renewable natural resources,221118
@@ -370,7 +370,7 @@ Welding supply store,333992
 Dry ice supplier,312113
 Private equity firm,523920
 Family service center,624190
-Federal government office,999000
+Federal government office,921190
 Vitamin & supplements store,446191
 Feed manufacturer,311119
 Medical equipment supplier,423450
@@ -390,17 +390,17 @@ Food processing company,311999
 Fence supply store,444190
 Food producer,311999
 Forestry service,115310
-Foundry,3315
+Foundry,331513
 Wholesale jeweler,423940
 Cookie shop,311821
 Truck rental agency,532120
-Fruit and vegetable processing,311400
+Fruit and vegetable processing,311421
 Kitchen supply store,423440
 Hydraulic equipment supplier,423830
 Irrigation equipment supplier,221310
 Bearing supplier,332991
 Metallurgy company,332117
-Plastic injection molding service,3261
+Plastic injection molding service,333511
 General contractor,236220
 General hospital,622110
 Tool manufacturer,333515
@@ -420,7 +420,7 @@ PVC industry,326122
 Countertop store,444190
 Cabinet store,444190
 Fiberglass supplier,327993
-Golf cart dealer,441229
+Golf cart dealer,441228
 Auto repair shop,811111
 Hose supplier,326220
 Rubber products supplier,326299
@@ -464,7 +464,7 @@ Lawn irrigation equipment supplier,221310
 Financial consultant,523930
 Helicopter charter,481211
 Packaging machinery,333993
-Historical landmark,712100
+Historical landmark,712120
 Electronics manufacturer,334419
 Graphic designer,541430
 Eye care center,621320
@@ -472,7 +472,7 @@ Optical products manufacturer,333314
 Image consultant,541430
 Cleaning products supplier,423850
 Fireplace store,423720
-Home builder,236100
+Home builder,236115
 Tool & die shop,333514
 Metal stamping service,332119
 Environmental organization,813312
@@ -500,14 +500,14 @@ Electronic parts supplier,423690
 HVAC contractor,238220
 Industrial engineer,541330
 Contact lenses supplier,333314
-Information services,519100
+Information services,519190
 Building,236220
 Water works equipment supplier,423720
 Measuring instruments supplier,334513
 Scientific equipment supplier,423490
 Medical center,622110
 Watch manufacturer,423940
-Corporate entertainment service,71
+Corporate entertainment service,711510
 Insurance,524210
 Record company,512250
 Video duplication service,512191
@@ -522,7 +522,7 @@ Railroad company,482111
 Electrical supply store,423610
 Insurance company,524210
 Factory equipment supplier,423830
-Investment service,523990
+Investment service,523999
 Laser equipment supplier,334510
 Executive suite rental agency,921110
 Truck dealer,423110
@@ -550,7 +550,7 @@ Ship building,336611
 Marine supply store,441222
 Boat dealer,441222
 Kawasaki motorcycle dealer,441228
-Knife manufacturing,342101
+Knife manufacturing,332215
 Labor union,813930
 Furniture maker,337122
 Banking and finance,522110
@@ -581,13 +581,13 @@ Gasket manufacturer,339991
 Piano maker,339992
 Piano store,451140
 Funeral home,812210
-Monument,3281
+Monument,712120
 Book publisher,511130
 Wig shop,448150
 Laundromat,812310
 Auto wrecker,488410
 Auto parts market,441310
-Jeep dealer,4411
+Jeep dealer,441110
 Restaurant supply store,423850
 Roofing supply store,423330
 Law firm,541110
@@ -608,11 +608,11 @@ Audio visual equipment supplier,334310
 Lawyer,541110
 Cell phone store,517312
 Bathroom supply store,423720
-Leasing service,532000
+Leasing service,532490
 Construction machine dealer,423810
 Dairy farm equipment supplier,423820
 Propane supplier,454310
-Legal services,541100
+Legal services,541199
 Janitorial equipment supplier,561720
 Life insurance agency,524210
 Railroad contractor,488210
@@ -620,7 +620,7 @@ Swimming pool supply store,453998
 Light bulb supplier,335110
 Linens store,812331
 Metal construction company,332311
-Local government office,999300
+Local government office,921190
 Logging contractor,113310
 Machine shop,332710
 Hotel supply store,721110
@@ -631,7 +631,7 @@ Machinery parts manufacturer,333249
 Sports accessories wholesaler,423910
 Fashion designer,541490
 Cheese manufacturer,311513
-Cheese shop,5451
+Cheese shop,311513
 Shipping and mailing,491110
 Wholesale food store,424490
 Organic food store,446191
@@ -723,7 +723,7 @@ Travel services,561510
 Airport,488119
 Mental health service,621330
 Shipping company,488510
-Metal fabricator,332000
+Metal fabricator,332312
 Cruise line company,483112
 Towing service,488410
 Ferry terminal,488310
@@ -740,7 +740,7 @@ Railway services,488210
 Train station,485112
 Bus depot,485210
 Bus charter,485510
-Metal processing company,332000
+Metal processing company,332312
 Mixed-use,531120
 Motorcycle shop,441228
 Limousine service,485320
@@ -753,7 +753,7 @@ Cruise agency,561510
 Tourist attraction,561591
 Ski resort,713920
 Ski area,713920
-Fixed-base operator,4581
+Fixed-base operator,488119
 Aircraft maintenance company,488190
 Motorsports store,441228
 Boat rental service,532284
@@ -767,7 +767,7 @@ Shipping and mailing service,492110
 Newspaper publisher,511110
 Shredding service,561990
 Nuclear power company,221113
-Nursing home,623000
+Nursing home,623110
 Media company,541840
 Multimedia and electronic book publisher,519130
 Internet marketing service,541810
@@ -800,7 +800,7 @@ Media house,541840
 Paper distributor,424130
 News service,451212
 Public library,519120
-Law library,8231
+Law library,519120
 Museum,712110
 Federal reserve bank,521110
 Credit union,522130
@@ -827,12 +827,12 @@ Retirement community,623311
 Fraternal organization,813410
 Photo lab,541921
 Property investment,531390
-Photographer,541920
+Photographer,541921
 Photography school,541921
 4-star hotel,721110
 Convention center,561591
 Real estate appraiser,531320
-Photography service,541920
+Photography service,541921
 Resort hotel,721110
 Real estate consultant,531210
 3-star hotel,721110
@@ -847,7 +847,7 @@ Dress and tuxedo rental service,532281
 Wedding store,448190
 Video store,443142
 Movie rental,512199
-Photography studio,541920
+Photography studio,541921
 Home health care service,621610
 Skateboard shop,339920
 Event technology service,561920
@@ -856,8 +856,8 @@ Construction machine rental service,532412
 Audio visual equipment rental service,334310
 Shipping equipment industry,423860
 Physical therapy clinic,621340
-Plastic fabrication company,326100
-Plastic products supplier,326100
+Plastic fabrication company,326199
+Plastic products supplier,326199
 Auto tag agency,926120
 Department of motor vehicles,926120
 Notary public,541120
@@ -869,9 +869,9 @@ Plumber,238220
 Port authority,488310
 Portrait studio,541921
 Post office,491110
-Professional services,541000
+Professional services,541990
 University hospital,622110
-Public relations firm,541800
+Public relations firm,541820
 Civil engineering company,237990
 Drafting service,541340
 Pump supplier,333996
@@ -883,7 +883,7 @@ Stage lighting equipment supplier,335129
 Event management company,561920
 Radio broadcaster,333996
 Computer support and services,541519
-Ravine,515100
+Ravine,712190
 Employment center,561311
 National health foundation,813212
 Real estate developer,236117
@@ -897,14 +897,14 @@ Bakery,311811
 Database management company,518210
 Market researcher,541910
 Recycling center,423930
-Regional government office,999300
+Regional government office,921190
 Rehabilitation center,623220
-Religious institution,813100
-Religious organization,813100
+Religious institution,813110
+Religious organization,813110
 Repair service,811490
 Emergency veterinarian service,541940
 Pet sitter,812910
-Research and product development,541710
+Research and product development,541715
 Building society,236220
 Valet parking service,812930
 Nursing agency,623110
@@ -950,7 +950,7 @@ Media consultant,541840
 Beauty school,611511
 Flight school,611512
 Seaport,488310
-Security system supplier,56162
+Security system supplier,561621
 Middle school,611110
 Nonprofit,813410
 Shooting range,713990
@@ -961,14 +961,14 @@ Language school,611630
 English language school,611630
 Preschool,624410
 Self-storage facility,531130
-Semi conductor supplier,334400
+Semi conductor supplier,334413
 Driving school,611692
 Trucking school,611692
 Senior citizen center,624120
 Services,541519
 Childrens hospital,622110
 Dental supply store,339114
-Shipyard,33661
+Shipyard,336611
 Orthodox synagogue,813110
 Short term apartment rental agency,531110
 Nutritionist,621399
@@ -978,7 +978,7 @@ Social services organization,624190
 Social welfare center,624190
 Solar energy company,221114
 Solar energy equipment supplier,221114
-Special education school,611000
+Special education school,611110
 Podiatrist,621391
 Reproductive health clinic,621410
 Sporting goods store,451110
@@ -992,11 +992,11 @@ Medical diagnostic imaging center,621512
 X-ray lab,621512
 Blood bank,621991
 Stainless steel plant,331110
-State agency,999000
+State agency,921190
 Heliport,488119
 Health care company,622110
 Psychiatric hospital,622210
-State government office,999200
+State government office,921190
 Medical institution,622110
 Steel construction company,238120
 Cleaning service,561720
@@ -1030,14 +1030,14 @@ Car racing track,711212
 Club,813410
 Racecourse,711212
 Casino,713210
-Tax preparation,541200
+Tax preparation,541213
 Talent agency,711410
 Scouting,813410
-Tax preparation service,541200
+Tax preparation service,541213
 Theatre,711110
 Art institute,611610
 Natural history museum,712110
-Taxi service,485300
+Taxi service,485310
 History museum,712110
 Historical society,712120
 Heritage preservation,712120
@@ -1050,7 +1050,7 @@ Toy and game manufacturer,339930
 Amusement center,713110
 Lottery retailer,713290
 Off track betting shop,713290
-Technical service,541000
+Technical service,541990
 Park,812930
 Telecommunications,517919
 Bowling alley,713950
@@ -1123,7 +1123,7 @@ High school,611110
 Community health centre,621498
 Organization,813920
 Political party,813940
-Vending machine supplier,454200
+Vending machine supplier,454210
 Federal courthouse,922110
 Police department,922120
 Justice department,922190
@@ -1138,7 +1138,7 @@ Sheriffs department,922120
 Public high school,611110
 Veterinarian,541940
 Board of education,923110
-Waste management service,562000
+Waste management service,562111
 Public health department,923120
 Veterans organization,923140
 Weather forecast service,541990
