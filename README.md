@@ -6,6 +6,6 @@
 -Step 3: type jupyter-lab to run the notebook environment
 
 -Step 4: The notebooks are labeled in the order they should be run. Start with pt-1-load_data.ipynb and continue through
-each part until pt-8-further_analysis.ipynb.
+each part until pt-8-further_analysis.ipynb. Descriptions and further instructions are included in the code.
 
 That's it!
