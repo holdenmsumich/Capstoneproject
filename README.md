@@ -8,4 +8,6 @@
 -Step 4: The notebooks are labeled in the order they should be run. Start with pt-1-load_data.ipynb and continue through
 each part until pt-8-further_analysis.ipynb. Descriptions and further instructions are included in the code.
 
+Read the NAICS Industry Recommender System.pdf file for a full report on the methodology and insights from the code!
+
 That's it!
